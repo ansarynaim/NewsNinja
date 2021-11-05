@@ -25,5 +25,5 @@ show in the web.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Screenshot (47)](https://user-images.githubusercontent.com/42023583/140552684-d15b7d0e-1752-4d81-89bd-381c6da6f3eb.png)
 
